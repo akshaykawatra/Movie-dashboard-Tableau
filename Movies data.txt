@@ -1,0 +1,26 @@
+Tableau Publish link
+https://public.tableau.com/profile/akshay.kawatra1379#!/vizhome/ImdbMoviesByDirector/Dashboard1?publish=yes
+
+1) check the file if it is in excel,csv,data is loded correct or not
+2)then open the file in tableau
+      a)Check all fields are populated or not
+      b)Check if there is null values or not
+      c)check the data type:-
+             Numerical---> should be numericals   (measures)
+             charachter---> should be charachter  (dimensions)
+             country,stete,cite----> geographical (geographical)
+             date----> date  (tittle year--->change data type as date)
+      d) split the genre(if they have multiple feilds) column to multile columns (split colums)
+3)Prepare set of question that we need to find out according to buisness need in dashboard
+4)then create Worksheets accordingly 
+
+Questions---- 
+ 1) Filter by Director Name
+ 2) Table showing--> a) Avg. Duration  b)Gross sum of all movies  c)Avg. Imdb score D) Number of records
+ 3) All movies by gross revenue and avg duration
+ 4) Number of movies released each year
+ 5) Genre of movies by rating
+ 6) Favt actor of director
+ 
+
+      
